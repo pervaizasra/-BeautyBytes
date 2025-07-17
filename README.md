@@ -1,5 +1,5 @@
 # -BeautyBytes
-TRY IT LIVE: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pervaizasra/beautybytes/HEAD)
+TRY IT LIVE: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pervaizasra/-BeautyBytes/HEAD)
 ## 📌 Project Summary
 
 **BeautyBytes** is a full-cycle data analytics project aimed at uncovering trends, customer preferences, and brand insights in the online cosmetics industry using a dataset of 15,000 makeup products. The project includes:
