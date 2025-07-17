@@ -56,6 +56,8 @@ def recommend(product_name, top_n=5):
     print('A user who likes Ultra Face Mask might also enjoy products with similar skin-type targets and ingredients such as: ',recommend('Ultra Face Mask'))
 A user who likes Ultra Face Mask might also enjoy products with similar skin-type targets and ingredients such as:  
 ['Magic Foundation', 'Super Cc Cream', 'Ultra Foundation', 'Ultra Eye Shadow', 'Divine Face Mask']
+
+TRY IT LIVE: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pervaizasra/beautybytes-notebook/HEAD)
 ### 🔍 3. Brand Popularity & Feedback
 - Popularity score: Rating × log(Number of Reviews)
 - Brands like **HourGlass, Milk Makeup, Becca** lead in satisfaction
